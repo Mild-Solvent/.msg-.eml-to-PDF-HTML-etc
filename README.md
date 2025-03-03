@@ -43,7 +43,7 @@ This will run the parser from the terminal and output the parsed email data.
 ## Getting Started
 
 1. **Clone or Download** this repository.
-   ```git clone ```
+   ```git clone https://github.com/Mild-Solvent/.msg-.eml-to-PDF-HTML-etc.git```
 3. **Install Dependencies** (if any):
    ```bash
    npm install
